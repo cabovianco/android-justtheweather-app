@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Just the Weather</string>
+    <string name="updated_at">updated @ %1$s</string>
+    <string name="refresh">refresh</string>
+    <string name="next_hours">NEXT HOURS</string>
+    <string name="next_days">NEXT DAYS</string>
+    <string name="feels_like">feels like %1$d*</string>
+    <string name="loading">LOADING…</string>
+    <string name="error">ERROR</string>
+    <string name="weather_sun">SUN</string>
+    <string name="weather_cloudy">CLOUDY</string>
+    <string name="weather_rain">RAIN</string>
+    <string name="weather_storm">STORM</string>
+    <string name="weather_snow">SNOW</string>
+    <string name="weather_unknown">UNKNOWN</string>
+    <string name="no_data_available">NO DATA AVAILABLE</string>
+    <string name="info">info</string>
+    <string name="close">close</string>
+    <string name="ascii_info_title">ASCII WEATHER KEYS</string>
+</resources>
